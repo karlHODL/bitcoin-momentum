@@ -29,7 +29,7 @@ div.top {
 
 h1.time {
     text-align: center;
-    font-size: 3rem;
+    font-size: 4rem;
 }
 
 div#crypto {
@@ -75,4 +75,8 @@ p.weather-temp {
     margin: 0;
     font-size: 2.25rem;
     margin-left: -10px;
+}
+
+p.author {
+    font-size: 1.1rem;
 }
